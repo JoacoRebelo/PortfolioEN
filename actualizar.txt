@@ -1,0 +1,7 @@
+abro la terminal:
+
+git add .
+
+git commit -m "Cambie el color del fondo"
+
+git push
